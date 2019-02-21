@@ -1,0 +1,5 @@
+com\san\ERP\dao\StudentDAO.class
+com\san\ERP\repository\StudentRepository.class
+com\san\ERP\controller\StudentController.class
+com\san\ERP\StudentApplication.class
+com\san\ERP\model\Student.class
